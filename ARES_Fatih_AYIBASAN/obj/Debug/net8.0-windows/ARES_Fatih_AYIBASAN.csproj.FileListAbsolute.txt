@@ -1,0 +1,420 @@
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
+C:\Users\Fatih\Desktop\220707070_FatihAYIBASAN\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\Eczane_otomasyon\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+E:\Files\SkyEye 3200 ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+E:\Files\SkyEye 3200 - ARES\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Cfg.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Common.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.IO.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Mavlink.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ApplicationFramework.StandardBase.MAVLink.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Geodesy.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\log4net.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MAVLink.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.Serialization.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavSdk.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Utf8StringInterpolation.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ZLogger.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Common.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Mavlink.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fat.067F7B86.Up2Date
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.Threading.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.R3.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\R3.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Abstractions.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Dell\OneDrive\Masaüstü\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Cfg.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Common.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.IO.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Mavlink.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.Threading.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ApplicationFramework.StandardBase.MAVLink.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Geodesy.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\log4net.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MAVLink.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.Serialization.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavSdk.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.R3.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\R3.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Abstractions.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Utf8StringInterpolation.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ZLogger.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Common.resources.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Mavlink.resources.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fat.067F7B86.Up2Date
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Cfg.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Common.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.IO.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Mavlink.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.Threading.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ApplicationFramework.StandardBase.MAVLink.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Geodesy.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\log4net.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MAVLink.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.Serialization.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavSdk.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.R3.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\R3.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Ports.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Reactive.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Utf8StringInterpolation.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ZLogger.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Common.resources.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Mavlink.resources.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.AssemblyReference.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fat.067F7B86.Up2Date
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\Yarıışma Alanı\Emir\Emir\Emir\ARE-ION Arayüz Tasarımı\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.exe
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.deps.json
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.runtimeconfig.json
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Cfg.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Common.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.IO.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Asv.Mavlink.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\DotNext.Threading.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ApplicationFramework.StandardBase.MAVLink.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Geodesy.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\log4net.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MAVLink.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavLink4Net.Messages.Serialization.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\MavSdk.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ObservableCollections.R3.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\R3.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Hashing.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.IO.Ports.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\System.Reactive.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Utf8StringInterpolation.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ZLogger.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Common.resources.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\ru\Asv.Mavlink.resources.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.AssemblyReference.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Form1.resources
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.Properties.Resources.resources
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.GenerateResource.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfoInputs.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.AssemblyInfo.cs
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.csproj.CoreCompileInputs.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fat.067F7B86.Up2Date
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\refint\ARES_Fatih_AYIBASAN.dll
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.pdb
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ARES_Fatih_AYIBASAN.genruntimeconfig.cache
+D:\ATA - TEB\SkyEye 3200 - ARES 2024-2025\ARE-ION\ARE-ION Arayüz Tasarımı\ARES_Fatih_AYIBASAN\ARES_Fatih_AYIBASAN\obj\Debug\net8.0-windows\ref\ARES_Fatih_AYIBASAN.dll
