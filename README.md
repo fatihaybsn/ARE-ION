@@ -67,8 +67,7 @@ Görüntü penceresi üzerinden hedef tespiti veya FPV sürüş yapılabilir.
 - Uygulamanın çalışacağı dizinde (bin/Debug/net8.0-windows/) api.exe ve TCP_goruntu_aktarim_win.exe dosyalarının bulunduğundan emin olun. (Bu dosyalar ana uygulamanın çalışması için kritiktir).
 - Start tuşuna basarak uygulamayı başlatın.
 
-### NOT
-Bu yazılım, yarışma kuralları ve güvenlik protokolleri çerçevesinde test edilmelidir. Yasaklı alan ihlalleri veya bağlantı kopması durumunda devreye girecek otonom prosedürler (Failsafe) uçuş kontrolcüsü (Pixhawk/Cube) üzerinden ayrıca yapılandırılmalıdır.
+> Not: Bu yazılım, yarışma kuralları ve güvenlik protokolleri çerçevesinde test edilmelidir. Yasaklı alan ihlalleri veya bağlantı kopması durumunda devreye girecek otonom prosedürler (Failsafe) uçuş kontrolcüsü (Pixhawk/Cube) üzerinden ayrıca yapılandırılmalıdır.
 
 ### Ekstra Bilgiler
 
