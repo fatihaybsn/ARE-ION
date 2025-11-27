@@ -1,29 +1,15 @@
 # ARE-ION
-# ARES – C# Yer Kontrol İstasyonu (Teknofest Savaşan İHA)
+# ARES – C# Yer Kontrol İstasyonu (Teknofest Savaşan İHA 2025 GCS)
 
-C# ve MAVLink kütüphanesi kullanılarak geliştirilen **Yer Kontrol İstasyonu (GCS)**.  
+C# ve MAVLink kütüphanesi kullanılarak Teknofest 2025 Savaşan İHA yarışması kapsamında geliştirilmiş, kapsamlı bir **Yer Kontrol İstasyonu (Ground Control Station - GCS)** yazılımıdır.  
 Pixhawk **Orange Cube** uçuş bilgisayarına **telemetri** (Seri/UDP/TCP) üzerinden bağlanır; İHA’dan **irtifa, hız, yaw, GPS** gibi verileri canlı alır ve **harita** üzerinde hem anlık konumu hem de **yasaklı alanları (geofence)** gösterir.
 
 > **Durum:** Aktif geliştirme • **Hedef platform:** Windows (.NET)
 
-## İçindekiler
-- [Özellikler](#özellikler)
-- [Mimari ve Teknolojiler](#mimari-ve-teknolojiler)
-- [Kurulum](#kurulum)
-- [Hızlı Başlangıç](#hızlı-başlangıç)
-- [Bağlantı & Telemetri](#bağlantı--telemetri)
-- [Harita & Geofence](#harita--geofence)
-- [Proje Yapısı](#proje-yapısı)
-- [Yapılandırma (appsettings.json - opsiyonel)](#yapılandırma-appsettingsjson---opsiyonel)
-- [Sıkça Sorulanlar](#sıkça-sorulanlar)
-- [Yol Haritası](#yol-haritası)
-- [Katkı](#katkı)
-- [Lisans](#lisans)
-- [Teşekkür](#teşekkür)
-- [English Summary](#english-summary)
-
 ---
 <img width="1919" height="1079" alt="Ekran görüntüsü 2025-10-10 193808" src="https://github.com/user-attachments/assets/6ff9124a-67d4-46d6-8ca2-de2da2909c6c" />
+
+ARE-ION, operatörün hava aracına tam hakimiyet kurmasını sağlayan hibrit bir mimariye sahiptir. Arayüz ve ana kontrol mantığı C# (.NET 8.0 WinForms) üzerinde çalışırken, görüntü işleme ve ağ tabanlı video aktarım modülleri performans avantajı nedeniyle Python ile geliştirilmiş ve sisteme entegre edilmiştir.
 
 ## Özellikler
 - **MAVLink** üzerinden Pixhawk Orange Cube’a bağlantı (Seri/UDP/TCP).
@@ -44,6 +30,27 @@ Pixhawk **Orange Cube** uçuş bilgisayarına **telemetri** (Seri/UDP/TCP) üzer
 
 ---
 
+## Özellikler ve Kullanım
+
+### 1. Bağlantı Modülü
+**Port Seçimi:** Bilgisayara bağlı telemetri modülünün (RFD900, LoRa vb.) COM portu otomatik listelenir.
+**Baud Rate:** Varsayılan 57600 veya 115200 seçenekleri.
+**Bağlan/Kes:** Bağlantı durumunu gösteren görsel indikatörler.
+
+### 2. Kokpit ve Göstergeler
+**Yapay Ufuk (HUD):** Pitch ve Roll hareketlerinin görsel temsili.
+**Hız ve İrtifa:** Anlık yer hızı (m/s) ve barometrik/GPS irtifası.
+**Mod Göstergesi:** (STABILIZE, LOITER, AUTO, GUIDED vb.)
+
+### 3. Harita ve Görev
+Harita üzerinde İHA ikonu, burnunun baktığı yöne (Heading) göre döner.
+Yasaklı alanlar kırmızı poligonlar ile çizilir.
+İHA yasaklı alana girerse sistem sesli ve görsel uyarı verir.
+
+### 4. Video Akışı
+"Görüntü Başlat" butonu TCP_goruntu_aktarim_win.exe servisini tetikler.
+Görüntü penceresi üzerinden hedef tespiti veya FPV sürüş yapılabilir.
+
 ## Kurulum
 
 ### Gereksinimler
@@ -52,9 +59,14 @@ Pixhawk **Orange Cube** uçuş bilgisayarına **telemetri** (Seri/UDP/TCP) üzer
 - Pixhawk **Orange Cube** (ArduPilot/PX4), telemetri modülü veya UDP bridge
 - NuGet bağımlılıkları (MAVLink, harita bileşeni vb.)
 
-### Repoyu Klonla
-```bash
-git clone https://github.com/<kullanici-adi>/<repo-adi>.git
-cd <repo-adi>
+### Adımlar
+- Projeyi klonlayın veya indirin.
+- ARES_Fatih_AYIBASAN.sln dosyasını Visual Studio ile açın.
+- NuGet Paketlerini Geri Yükle (Restore NuGet Packages) seçeneği ile bağımlılıkları (Asv.Mavlink, WebView2 vb.) yükleyin.
+- Projeyi Debug veya Release modunda derleyin (Ctrl + Shift + B).
+- Uygulamanın çalışacağı dizinde (bin/Debug/net8.0-windows/) api.exe ve TCP_goruntu_aktarim_win.exe dosyalarının bulunduğundan emin olun. (Bu dosyalar ana uygulamanın çalışması için kritiktir).
+- Start tuşuna basarak uygulamayı başlatın.
 
-<img width="1919" height="1079" alt="Ekran görüntüsü 2025-10-10 193808" src="https://github.com/user-attachments/assets/93e5bb2e-ca02-46ae-8d51-9b503fbb823c" />
+### NOT
+Bu yazılım, yarışma kuralları ve güvenlik protokolleri çerçevesinde test edilmelidir. Yasaklı alan ihlalleri veya bağlantı kopması durumunda devreye girecek otonom prosedürler (Failsafe) uçuş kontrolcüsü (Pixhawk/Cube) üzerinden ayrıca yapılandırılmalıdır.
+
