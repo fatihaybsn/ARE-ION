@@ -1,5 +1,5 @@
 # ARE-ION
-# C# Yer Kontrol İstasyonu (Teknofest Savaşan İHA 2025 GCS)
+# C# Yer Kontrol İstasyonu (Teknofest Savaşan İHA 2025)
 
 C# ve MAVLink kütüphanesi kullanılarak Teknofest 2025 Savaşan İHA yarışması kapsamında geliştirilmiş, kapsamlı bir **Yer Kontrol İstasyonu (Ground Control Station - GCS)** yazılımıdır.  
 Pixhawk **Orange Cube** uçuş bilgisayarına **telemetri** (Seri/UDP/TCP) üzerinden bağlanır; İHA’dan **irtifa, hız, yaw, GPS** gibi verileri canlı alır ve **harita** üzerinde hem anlık konumu hem de **yasaklı alanları (geofence)** gösterir.
